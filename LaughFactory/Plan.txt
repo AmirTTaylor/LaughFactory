@@ -1,0 +1,9 @@
+I want a program that tells basic dad jokes, it will have a file that holds a bunch of dad jokes found on the internet
+and another with a program that will randomly tell the dad jokes. 
+
+Jokes.txt : Holds Dad Jokes
+Comedian.java : Ask if user would like to hear a joke, Tell the joke from joke file
+
+Access the joke file from comedian file File I/O Streams (Study dont look up)
+
+randomize which joke is read, find out how to control the start line of .read() method
